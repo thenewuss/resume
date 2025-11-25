@@ -1,0 +1,43 @@
+---
+title: "Test 1"
+author: "Johan--123456789"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Executive Summary
+
+This is the summary. fjsdalkjfdsak
+fjldsakjfdsakl
+jflsdkafjdskaljflkdsajsdfkla
+
+# Question 1
+
+```{r}
+# Create website performance dataset with business terminology
+webperfo <- data.frame(
+  engagement = airquality$Temp,
+  performance = airquality$Ozone,
+  server_load = airquality$Wind
+)
+```
+
+## Q1. A
+
+```{r}
+head( webperfo )
+```
+
+The above command is incredible. I am impressed.
+
+## Q1. B
+
+```{r}
+summary( webperfo )
+```
+
+The above command is incredible. I am impressed.

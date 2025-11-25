@@ -1,0 +1,52 @@
+
+---
+title: "About Me"
+---
+
+## Background
+
+I'm a second-year student at VIU, developing skills 
+in data analysis, business intelligence, and statistical computing.
+
+## Skills & Tools
+
+**Analysis:**
+
+- R for data analysis
+- Data cleaning and transformation
+- Statistical analysis and interpretation
+
+**Visualization & Reporting:**
+
+- ggplot2 for professional visualizations
+- R Markdown for reproducible reports
+- Data storytelling for business audiences
+
+**Data Sources:**
+
+- CSV file processing
+- Government open data (via APIs)
+- Business performance datasets
+
+## Education
+
+**VIU** - E-Management Program  
+*Expected Graduation: [Year]*
+
+Relevant Coursework:
+
+- Data Analysis for E-Management
+- Business Statistics
+- Information Systems
+
+## Contact
+
+Feel free to connect with me:
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [yourusername](https://github.com/yourusername)
+
+---
+
+[← Back to Home](index.html)
