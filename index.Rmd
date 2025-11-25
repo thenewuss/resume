@@ -5,7 +5,7 @@ title: "Welcome to My Portfolio"
 
 ## Hello and Welcome!
 
-I'm Jimmy theVandal, and this is my portfolio. Here you'll find 
+I'm Bob Theidiot, and this is my portfolio. Here you'll find 
 projects showcasing my skills in:
 
 - Data cleaning and transformation
